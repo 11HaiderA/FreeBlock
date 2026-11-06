@@ -2,7 +2,7 @@
   "expo": {
     "name": "FreeBlock",
     "slug": "freeblock",
-    "owner": "haiderali110s-team",
+    "owner": "haideralirajas-team",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,7 +11,7 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.sammad.freeblock",
+      "package": "com.freeblock.puzzle",
       "adaptiveIcon": {
         "backgroundColor": "#221107",
         "foregroundImage": "./assets/android-icon-foreground.png",
@@ -55,7 +55,7 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "21edf522-18b5-4763-ae05-a0f41cdba4bf"
+        "projectId": "be8d08f9-2e8a-48bc-9cca-45167249823d"
       }
     }
   }
