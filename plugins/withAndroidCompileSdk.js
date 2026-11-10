@@ -12,7 +12,7 @@ function withAndroidCompileSdk(config) {
     buildToolsVersion = "36.0.0"
     minSdkVersion = 24
     compileSdkVersion = 36
-    targetSdkVersion = 35
+    targetSdkVersion = 36
     googleMobileAdsJson = false
   }`
       );
